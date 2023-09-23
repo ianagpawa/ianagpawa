@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ianagpawa
-- 👀 I’m interested in how things work so I can build things.
-- 🌱 I’m currently learning Ruby and Jekyll.
+- 👋 Hi, I’m @ianagpawa and I like to code.
+- 👀 I’m interested in understanding how things work so I can build things.
+- 🌱 I'm currently learning about websockets and server side rendering.
 
 <!---
 ianagpawa/ianagpawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
