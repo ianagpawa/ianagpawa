@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m @ianagpawa and I am a software engineer.
 - 👀 I’m interested in understanding how things work so I can build things.
-- 🌱 I'm currently learning about websockets and server side rendering.
+- 🌱 I'm always trying to improve my technical skills.
+- Fledging sneaker enthusiast, gaming hobbyist, fan of all things comedy.
 
 ## Tools I Use
 <p align="left">
